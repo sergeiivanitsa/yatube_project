@@ -6,7 +6,7 @@
 ## Как запустить проект:
 Клонировать репозиторий и перейти в него в командной строке:
 ```python
-git clone https://github.com/abp-ce/hw05_final.git
+git clone https://github.com/sergeiivanitsa/hw05_final.git
 ```
 ```python
 cd hw05_final
